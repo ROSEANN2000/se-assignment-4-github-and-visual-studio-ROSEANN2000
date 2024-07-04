@@ -76,9 +76,9 @@ Introduction to Visual Studio:
 What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 Visual studios is comprehensive Integrated Development Environment IDE. One can use Visual Studios to build apps and websites. The key features include code editor like debugging tools, supports different languages like python etc. 
 
- Visual studio code is an open-source editor
-
-
+ Visual studio code is an open-source editor where one can edit code. The features include code editing, debugging tools similar to Visual Studios.
+Other differences are Visual studios is more expensive since it is paid while visual studio code is free.
+Visual studios has integrates debuggers while those in Visual studio code are basic.
 
 
 
@@ -98,16 +98,24 @@ Visual studio will open and from there changes can be made.
 Debugging in Visual Studio:
 
 Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
-
-
-
-
+Debugging is when one inspects your code by running it step by step to find a programming mistake.
+The debugging tools used are:
+Breakpoints- This help check for mistakes at particular points. One clicks the margin next to the desired line of code.
+Once a breakpoint is hit, you can use various stepping commands:
+Step Over,Step Into and Step Out.
+Watch windows- This allows one to monitor the values of variables and expressions when coding.
+local and autos windows show variables that are being used in the current line of execution.
+call stack winndow- locates the source of error by showing the order in which methods and fuctions are called.
 
 
 
 Collaborative Development using GitHub and Visual Studio:
 
 Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
+
+developers can clone repositories, commit changes, push and pull from GitHub then manage branches within Visual studios.
+Developers can pull requests in GitHub on changes to improve on. They can also use GitHub to track tasks hence keepingg their work/ projects organised.
+Real life examples are e-commerse platforms
 
 
 Submission Guidelines:
